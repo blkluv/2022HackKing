@@ -1,0 +1,46 @@
+arweave.wallets.jwkToAddress(key).then((address) => {
+    console.log(address);
+    //1seRanklLU_1VTGkEk7P0xAwMJfA7owA1JHW5KyZKlY
+});
+
+// Get Balance
+
+arweave.wallets.getBalance('1seRanklLU_1VTGkEk7P0xAwMJfA7owA1JHW5KyZKlY').then((balance) => {
+    let winston = balance;
+    let ar = arweave.ar.winstonToAr(balance);
+
+    console.log(winston);
+    //125213858712
+
+    console.log(ar);
+    //0.125213858712
+});
+
+//Uploading files
+
+let data = fs.readFileSync('path/to/file.pdf');
+
+let transaction = await arweave.createTransaction({ data: data }, key);
+transaction.addTag('Content-Type', 'application/pdf');
+
+await arweave.transactions.sign(transaction, key);
+
+let uploader = await arweave.transactions.getUploader(transaction);
+
+while (!uploader.isComplete) {
+  await uploader.uploadChunk();
+  console.log(`${uploader.pctComplete}% complete, ${uploader.uploadedChunks}/${uploader.totalChunks}`);
+}
+
+// Get Balance
+
+arweave.wallets.getBalance('1seRanklLU_1VTGkEk7P0xAwMJfA7owA1JHW5KyZKlY').then((balance) => {
+    let winston = balance;
+    let ar = arweave.ar.winstonToAr(balance);
+
+    console.log(winston);
+    //125213858712
+
+    console.log(ar);
+    //0.125213858712
+});
