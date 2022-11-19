@@ -1,5 +1,6 @@
-This is a posting webpage where content can be posted to Arweave network and stored premanently
-Created by students of King's College London
+This is a posting webpage where content can be posted to Arweave network and stored premanently.
+
+Created by students of King's College London:
 
 Juntong Deng, BSc Computer Science, K22038213@kcl.ac.uk
 
