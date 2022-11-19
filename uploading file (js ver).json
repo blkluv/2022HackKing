@@ -1,4 +1,4 @@
-function myFunction(key, data) {
+function uploading(key, data) {
 
 //Uploading files
 
