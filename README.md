@@ -8,4 +8,4 @@ Qilan Lin, International Foundation for Computer Science and Engineering, K21204
 
 Hongyi Tu, BSc Computer Science, K21078271@kcl.ac.uk
 
-Carlos De La Puente, BSc Computer Science,,K21091485@kcl.ac.uk
+Carlos De La Puente, BSc Computer Science, K21091485@kcl.ac.uk
