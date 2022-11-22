@@ -1,4 +1,4 @@
-This is a posting webpage where content can be posted to Arweave network and stored premanently.
+This is a posting system where content can be posted to Arweave network and stored premanently.
 
 Created by students of King's College London:
 
