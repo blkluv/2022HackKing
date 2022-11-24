@@ -2,7 +2,7 @@
   <el-container>
     <el-main>
       <h1>
-        Permanent Posting Based On Arweave Network
+        Permanent Posting System Based on Arweave Network
       </h1>
       <el-row>
         <el-col :span="12">
