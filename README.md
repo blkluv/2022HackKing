@@ -32,10 +32,10 @@ The key of an Arweave wallet (a .json file) with AR balance is needed to pay blo
 
 ## Created by
 
-Juntong Deng, BSc Computer Science, k22038213@kcl.ac.uk
+Juntong Deng, BSc Computer Science, King's College London, k22038213@kcl.ac.uk
 
-Qilan Lin, Intl. Foundation for Computer Science and Engineering, k21204786@kcl.ac.uk
+Qilan Lin, Intl. Foundation for Computer Science and Engineering, King's College London, k21204786@kcl.ac.uk
 
-Hongyi Tu, BSc Computer Science, k21078271@kcl.ac.uk
+Hongyi Tu, BSc Computer Science, King's College London, k21078271@kcl.ac.uk
 
-Carlos De La Puente, BSc Computer Science, k21091485@kcl.ac.uk
+Carlos De La Puente, BSc Computer Science, King's College London, k21091485@kcl.ac.uk
