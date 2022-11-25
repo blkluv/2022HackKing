@@ -30,7 +30,7 @@ The key of an Arweave wallet (a .json file) with AR balance is needed to pay blo
 ## Build
 - Make sure that you have npm installed in your computer
 
-## Created by:
+## Created by
 
 Juntong Deng, BSc Computer Science, k22038213@kcl.ac.uk
 
