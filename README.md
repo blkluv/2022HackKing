@@ -1,5 +1,8 @@
 ## Permanent Posting System Based on Arweave Network
-
+<h1 align="center">
+  <img src="https://github.com/qilanlin/2022HackKing-s/blob/main/Screenshot.png" width="1000">
+ 
+</h1>
 This is a posting system where content can be posted to Arweave network and stored permanently.
 
 Work for 2022 HackKing's - annual hackathon of King's College London. Built on 19 Nov. 2022 at Bush House, London.
