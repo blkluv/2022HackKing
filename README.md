@@ -5,7 +5,7 @@
 </h1>
 This is a posting system where content can be posted to Arweave network and stored permanently.
 
-Work for 2022 HackKing's - annual hackathon of King's College London. Built on 19 Nov. 2022 at Bush House, London.
+A work for 2022 HackKing's - annual hackathon of King's College London. Built on 19 Nov. 2022 at Bush House, London.
 
 Notice:
 
