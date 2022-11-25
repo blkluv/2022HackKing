@@ -22,13 +22,13 @@ The key of an Arweave wallet (a .json file) with AR balance is needed to pay blo
 ```
  cd path/of/the/folder
   ```
-- Then in your terminal, enter the code below line by line:
+- In your terminal, enter the code below line by line:
  ```
   npm install
   npm run dev
   ```
   
-- Then open in the browser the localhost url shown on the terminal
+- Open in the browser the localhost url shown on the terminal
 
 ## Build
 - Make sure that you have npm installed in your computer
