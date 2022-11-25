@@ -11,7 +11,7 @@ Your content will be posted to Arweave blockchain network, and this tool will no
 The key of an Arweave wallet (a .json file) with AR balance is needed to pay blockchain transaction fee for each posting.
 
 ## Use
-- Download it on this webpage. Then unzip the file into a folder
+- Download the ZIP file on this webpage. Then unzip the file into a folder
 - Get into the folder in the terminal
 ```
  cd path/of/the/folder
