@@ -10,11 +10,14 @@ A work for 2022 HackKing's - annual hackathon of King's College London.
 
 Built on 19 Nov. 2022 at Bush House, London.
 
-Notice:
+### Notice:
 
-Your content will be posted to Arweave blockchain network, and this tool will not store your content. 
+- Your content will be posted to Arweave blockchain network; this tool will not store your content. 
 
-The key of an Arweave wallet (a .json file) with AR balance is needed to pay blockchain transaction fee for each posting.
+- The key of an Arweave wallet (all content of the wallet's ```.json``` file) with ```AR token``` balance is needed to pay blockchain transaction fee for each posting action.
+
+## Build
+- Make sure that you have npm installed in your computer
 
 ## Use
 - Download the ZIP file on this webpage and unzip the file into a folder
@@ -23,17 +26,14 @@ The key of an Arweave wallet (a .json file) with AR balance is needed to pay blo
  cd path/of/the/folder
   ```
 - In your terminal, enter the code below line by line:
- ```
+```
   npm install
   npm run dev
   ```
   
 - Open in the browser the localhost url shown on the terminal
 
-## Build
-- Make sure that you have npm installed in your computer
-
-## Created by
+## Created by (listed in no particular order)
 
 Juntong Deng, BSc Computer Science, King's College London, k22038213@kcl.ac.uk
 
