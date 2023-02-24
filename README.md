@@ -12,7 +12,7 @@ Built on 19 Nov. 2022 at Bush House, London.
 
 ### Notice:
 
-- Your content will be posted to Arweave blockchain network; this tool will not store your content. 
+- Your content will be posted to Arweave blockchain network; this tool will not store your content, instead, it posts your content to the blockchain for permanent storage.
 
 - The key of an Arweave wallet (all content of the wallet's ```.json``` file) with ```AR token``` balance is needed to pay blockchain transaction fee for each posting action.
 
