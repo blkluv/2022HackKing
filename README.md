@@ -33,12 +33,12 @@ Built on 19 Nov. 2022 at Bush House, London.
   
 - Open in the browser the localhost url shown on the terminal
 
-## Created by (listed in no particular order)
+## Created by
+
+Carlos De La Puente, BSc Computer Science, King's College London, k21091485@kcl.ac.uk
+
+Hongyi Tu, BSc Computer Science, King's College London, k21078271@kcl.ac.uk
 
 Juntong Deng, BSc Computer Science, King's College London, k22038213@kcl.ac.uk
 
 Qilan Lin, Intl. Foundation for Computer Science and Engineering, King's College London, k21204786@kcl.ac.uk
-
-Hongyi Tu, BSc Computer Science, King's College London, k21078271@kcl.ac.uk
-
-Carlos De La Puente, BSc Computer Science, King's College London, k21091485@kcl.ac.uk
